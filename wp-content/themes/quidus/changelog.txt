@@ -1,0 +1,18 @@
+---1.80---
+Added: RSS feed to social networks menu
+---1.79---
+Removed: CSS code for shortcodes
+Removed: some unnecessary !important statements 
+---1.78---
+Change: left and right padding of small tablet and mobile for posts
+Added: alignment now changes when post format icons are disabled and enabled
+---1.77---
+Fix: changed some default customizer values
+Removed: advanced color options (including translations related to them)
+---1.76---
+Removed: sidebar width slider (customizer)
+Fix: Content is now displaying correctly on small desktop when right sidebar is enabled
+Added: Option to disable featured images on single posts
+---1.75---
+Fix: pagination arrows were not displaying in chrome
+Change: pagination arrows are now placed differently
